@@ -3,7 +3,7 @@
 #include <DHT.h>
 
 #define led01 D4
-#define DHTPIN D1     // Pin where the DHT11 is connected
+#define DHTPIN D2     // Pin where the DHT11 is connected
 #define DHTTYPE DHT11 // DHT 11
 
 const char* ssid = "Room_TopZAstudio";
