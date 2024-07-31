@@ -17,4 +17,4 @@ CREATE TABLE sensor_data (
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+//<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
