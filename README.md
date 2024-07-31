@@ -16,3 +16,5 @@ CREATE TABLE sensor_data (
     humidity FLOAT NOT NULL,
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
