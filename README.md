@@ -2,6 +2,10 @@ UBU JOB FOR TEST CODING
 Mr.Settapong Phalaprom
 2024
 
+/////////////////////////////////////////////////////// PROGRAM //////////////////////////////////////////////////////////////////
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 Create Database : (nodemcu_db)
 
 CREATE TABLE led_status (
